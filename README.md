@@ -1,4 +1,4 @@
 <div>
   hello
-  <a src="https://discordapp.com/widget?id=631072660872495104&theme=dark" width="350" height="500" allowtransparency="true"      frameborder="0"></a>
+<p><a href="https://discord.gg/zvvasbc"><img src="https://discordapp.com/api/guilds/631072660872495104/widget.png?"></a></p>
 </div>
